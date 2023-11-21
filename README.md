@@ -25,7 +25,5 @@
 - [ ]  JavaScript -> provide the functionality of the webpage
   - [ ]  If i click this -> this will happen
 ---
-- [ ] Link for the web application: 
+- [ ] Link for the web application: https://rlb-pixel-art-generator.netlify.app/
 ---
-# PixelArtGeneratorApp
-# PixelArtGeneratorApp
