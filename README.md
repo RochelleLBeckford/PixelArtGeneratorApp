@@ -13,6 +13,7 @@
 - [ ] The user can click the color box -> to change the color utilized
 - [ ] The user can click erase -> to erase their art if not satisfied
 - [ ] The user can then click paint -> once satisfied with erased art the user would click paint to continue creating their pixel art
+- [ ] The user can clear the grid -> this will erase the art created and allow the user to start from scratch.
 - [ ] This project will encompass HTML, CSS, JavaScript
 - [ ] An Interactive and Modern webpage
 ---
