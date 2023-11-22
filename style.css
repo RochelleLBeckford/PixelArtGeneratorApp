@@ -97,5 +97,6 @@ input[type="color"]::-moz-color-swatch {
     .gridCol {
         height: 0.8em;
         width: 0.8em;
+        margin: auto;
     }
 }
